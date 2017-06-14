@@ -21,7 +21,7 @@
     "chai": ">=2.3.0",
     "mocha": ">=2.2.4",
     "timekeeper": ">=0.0.5",
-    "winston": ">=0.7.3"
+    "@jifeon/winston": ">=0.7.3"
   },
   "keywords": [
     "logging",
